@@ -4,4 +4,4 @@ main: org.hotal.extraenchantlevels.ExtraEnchantLevels
 api-version: 1.19
 load: STARTUP
 authors: [蛍]
-description: エンチャントレベル変更
+description: エンチャントレベル変更(10)

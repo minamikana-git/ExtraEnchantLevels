@@ -1,0 +1,7 @@
+name: ExtraEnchantLevels
+version: '${project.version}'
+main: org.hotal.extraenchantlevels.ExtraEnchantLevels
+api-version: 1.19
+load: STARTUP
+authors: [蛍]
+description: エンチャントレベル変更
